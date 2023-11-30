@@ -1,0 +1,5 @@
+
+AVRASM ver. 2.2.8  D:\Microchip\Scanmatrix\Scanmatrix\main.asm Thu Nov 30 11:12:56 2023
+
+[builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc'
+D:\Microchip\Scanmatrix\Scanmatrix\main.asm(128): error: syntax error, unexpected ''
